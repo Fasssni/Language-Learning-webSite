@@ -1,0 +1,67 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+.top{ 
+    height: 50px;
+    width:100%;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    display:flex;
+    justify-content:space-around;
+    align-items: center 
+    ;
+    overflow:hidden;
+    position:fixed;
+}
+
+.logo{ 
+    color:rgb(189, 4, 4);
+    
+}
+.firstpage{ 
+    background: url(../images/photo_2022-07-21_22-00-30.jpg) no-repeat;
+    background-size:cover;
+    background-position: center center;
+    height:100vh;
+    width:100%;
+    padding-top:50px;
+   
+}
+    
+/* 
+
+width: 100%;
+
+height: 100%;
+    
+
+  
+}
+
+.backim{
+    height:100%;
+    width:100%;
+} */
+
+
+a{
+    text-decoration:none;
+    color:inherit;
+}
+
+a:hover{
+    color:rgb(189, 4, 4);
+}
+
+.secondPage{ 
+    margin-top:0;
+    width:100%; 
+    height:100%;
+    background:rgb(244, 245, 246);
+    position:relative;
+
+
+}

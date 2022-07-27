@@ -1,0 +1,10 @@
+.MyMN{
+    text-decoration:none;
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height:100%;
+    margin-left: 20vw;
+
+}

@@ -1,0 +1,53 @@
+.MyForm{
+    width:60vw;
+    height:80vh;
+    align-items: center;
+    background: #fff;
+    margin-right: auto;
+    margin-left:auto;
+    margin-top:-200px;
+    border-radius:7px;
+    box-shadow: 0 4px 32px #0000000a;
+} 
+
+.MyForm2{
+    width:60vw;
+    height:80vh;
+    align-items: center;
+    background:yellow;
+    margin-right: auto;
+    margin-left:auto;
+    margin-top:-200px;
+    border-radius:7px;
+
+}
+
+.MyButton1{cursor: pointer;
+    background-color: #ffffff52;
+    border-radius: 16px;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #fff;
+    padding:5px 15px;
+    border:none;
+    margin:0px;
+   
+}
+.MyButton2{cursor: pointer;
+    background-color: #fff;
+    border-radius: 16px;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: black;
+    padding:5px 15px;
+    border:none;
+    margin-top:0px;
+
+   
+}
+
+
+    
+
